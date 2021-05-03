@@ -34,9 +34,9 @@ Before using the loan qualifier application, the following packages must be inst
 
 For a visual reference as to how the Monte Carlo simulations are calculated, please refer to the below images:
 
-![Monte Carlo Cumulative Portfolio Return](images/5-4-monte-carlo-line-plot.png)
+![Monte Carlo Cumulative Portfolio Return](Images/5-4-monte-carlo-line-plot.png)
 
-![Monte Carlo Cumulative Portfolio Histogram](images/5-4-monte-carlo-histogram.png)
+![Monte Carlo Cumulative Portfolio Histogram](Images/5-4-monte-carlo-histogram.png)
 
 
 ---
